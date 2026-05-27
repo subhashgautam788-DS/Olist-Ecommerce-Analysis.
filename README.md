@@ -74,6 +74,7 @@ olist-ecommerce-analysis/
 ├── olist.sql               # All SQL queries (table setup + 21 business questions)
 ├── README.md               # Project documentation (this file)
 ├── PROJECT_REPORT.md       # Detailed findings and business insights
+├── Olist_Ecommerce_Analysis_Report.pdf  # Downloadable project report
 │
 └── dashboards/
     ├── EXECUTIVE OVERVIEW.png
@@ -153,6 +154,13 @@ olist-ecommerce-analysis/
 6. **Bed, Bath & Table** is the top-selling category with 9,270+ delivered orders
 
 ---
+## 📄 Project Report
+
+A detailed PDF report covering all findings, insights, and business
+recommendations is available for download directly from this repository.
+
+👉 [Download Report PDF](Olist_Ecommerce_Analysis_Report.pdf)
+
 
 ## 🚀 How to Run the SQL Analysis
 
